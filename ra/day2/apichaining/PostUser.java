@@ -35,7 +35,7 @@ public class PostUser {
 		
 		System.out.println(id);
 		
-		context.setAttribute("id",id);
+		context.setAttribute("id",id);   //we are setting the value of id to the variable id.
 		
 		
 		
@@ -45,3 +45,4 @@ public class PostUser {
 	
 
 }
+
